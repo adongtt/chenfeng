@@ -17070,5 +17070,21 @@
 "elevation_gain": 28.0,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1741949243000,
+"name": "\u53a6\u95e8\u5e02 \u8dd1\u6b65",
+"distance": 4944.756510083388,
+"moving_time": "0:34:01",
+"type": "Run",
+"start_date": "2025-03-14 10:47:23",
+"start_date_local": "2025-03-14 18:47:23",
+"location_country": "\u6587\u5b89, \u4e2d\u534e\u8857\u9053, \u601d\u660e\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361001, \u4e2d\u56fd",
+"summary_polyline": "c_htCo|toUcAbAuAw@_BE}FoNwJbAwC_Jy@JGc@rFeAXo@UsAoAQsCd@{@dAJx@j@d@jEi@n@}@e@gB}Eh@o@t@PxBWu@x@j@`AAvCq@`@s@KgAaAc@wEpALdBhAPbDs@`@s@Eu@cAa@aE`AGrAhAd@bDk@b@aB{@i@mE`A?~AdAZzDcATw@e@}@mERu@l@ChA`@h@hCE|Ae@h@eAkAkA{Dd@u@pAt@tAG^vACvAtH`Bz@bHcBjCrDv@xDxC`Gp@ObD{E",
+"average_heartrate": 130.0,
+"average_speed": 2.4227126458027377,
+"elevation_gain": 14.0,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
